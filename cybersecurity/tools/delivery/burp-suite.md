@@ -1,3 +1,0 @@
-
-# Burp Suite
-Init.

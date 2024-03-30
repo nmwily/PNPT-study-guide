@@ -1,26 +1,12 @@
-# Obsidian Notes
-## This is a public repo of my notes using [Obsidian](https://obsidian.md/).
-> P.S. the commit history has been wiped due to insecure configuration. This repo was created in December '22
+# PNPT-study-guide
 
-### Viewing this Repo:
-The best way to view this collection of notes is with the Obsidian desktop app. The app shows connections, links between topics, and other formatting which can't be appreciated in the markdown alone.
-> [!NOTE]
-> Any note page with the word `Init.` at the top signifies notes which I plan to fill in later, or which I've started writing, but haven't finished.
-<picture>
+This houses all of my notes/ study guides I've generated while studying for the [PNPT Certification](https://academy.tcm-sec.com/a/aff_qsrrk8f2/external?affcode=770707_rpgcmrcd).
+### THIS REPO DOES NOT CONTAIN MATERIAL PRODUCED OR DISTRIBUTED BY TCM SECURITY
+Instead, these are my own notes which I created and use for my own learning and studying. If other outside references are used they will be linked appropriately.
+### Some notes on use
+This is a sub directory of my personal notes in [Obsidian Desktop](https://obsidian.md/) so some of the links will not work because they are relative to the entire vault rather than just the PNPT directory. Sorry.
 
-<img src=cybersecurity/cybersecurity-pics/fast-flux-README-pic.png width="400">
+I've done my best to embed links to the Obsidian repo but if there is a link you can't follow, you can find it [here](https://github.com/TrshPuppy/obsidian-notes)! I will try to link them (to their external GitHub residence) throughout.
+## Thank you so much for stopping by and I hope this repo is useful for someone out there in the void!
 
-</picture>
-<br>
-
-> This is how my notes on [Fast Flux](cybersecurity/TTPs/c2/fast-flux.md) will look on Obsidian Desktop.
-
-If you prefer to browse my notes w/o the help of Obsidian, just know that some markdown formatting will not make sense and will make the notes harder to read.
-
-This repo is for my organization and reference but can be viewed by the public. Feel free to use these notes for your own reference or education, however, I cannot guarantee their accuracy. Thanks! :)
-
-## P.S. Nested Repos!
-Check out the [nested-repos](https://github.com/TrshPuppy/obsidian-notes/tree/main/nested-repos) directory to see sub-folders of my notes which I've contextualized into their own repos!
-
-## P.P.S. Contributing:
-If you find flaws and or misinformation in topic notes you'd like me to correct, feel free to make a branch w/ your changes and submit a pull request so I can review them! I want these notes to be accurate and because I'm learning so much so quickly, I'm sure ther are notes which need fixing!
+P.S. Reference these notes at your own risk, I cannot verify their accuracy :)
